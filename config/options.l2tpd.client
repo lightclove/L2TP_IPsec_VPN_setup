@@ -1,0 +1,13 @@
+ipcp-accept-local
+ipcp-accept-remote
+refuse-eap
+require-mschap-v2
+noccp
+noauth
+mtu 1280
+mru 1280
+defaultroute
+usepeerdns
+debug
+name user
+password password
